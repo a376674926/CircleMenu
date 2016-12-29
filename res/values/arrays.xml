@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blood_pressure_text">
+        <item>@string/low_blood_pressure</item>
+        <item>@string/normal_blood_pressure</item>
+        <item>@string/normal_high_blood_pressure</item>
+        <item>@string/mild_high_blood_pressure</item>
+        <item>@string/moderate_high_blood_pressure</item>
+        <item>@string/severe_high_blood_pressure</item>
+    </string-array>
+    <string-array name="metu_item_background">
+        <item>@color/low_blood_pressure_color</item>
+        <item>@color/normal_blood_pressure_color</item>
+        <item>@color/normal_high_blood_pressure_color</item>
+        <item>@color/mild_high_blood_pressure_color</item>
+        <item>@color/moderate_high_blood_pressure_color</item>
+        <item>@color/severe_high_blood_pressure_color</item>
+    </string-array>
+</resources>

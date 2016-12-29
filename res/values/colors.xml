@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="strong">#FF5B26</color>
+
+    <color name="red_226">#E25E5E</color>
+    <color name="error_color">#FF4081</color>
+
+
+    <color name="font_text">#666</color>
+    <color name="color_999">#999</color>
+    <color name="color_eee">#eee</color>
+    <color name="font_info">#999</color>
+    <color name="font_tips">#CCC</color>
+    <color name="divider">#EEE</color>
+    <color name="border_block">#EAEAEA</color>
+    <color name="textcolor">#63B8FF</color>
+    <color name="color_ccc">#CCC</color>
+    <color name="left">#fc6a7b</color>
+    <color name="right">#2aad95</color>
+
+    <color name="white">#ffffff</color>
+    
+    
+    
+    <!-- circleMenu -->
+    <color name="low_blood_pressure_color">#60A2D0</color>
+    <color name="normal_blood_pressure_color">#5F9576</color>
+    <color name="normal_high_blood_pressure_color">#C5CD74</color>
+    <color name="mild_high_blood_pressure_color">#E3BD65</color>
+    <color name="moderate_high_blood_pressure_color">#DE8C5F</color>
+    <color name="severe_high_blood_pressure_color">#D45F5E</color>
+    <color name="default_stroke_color">#ffffff</color>
+    <color name="default_backgrouncolor">#ffffff</color>
+    <!-- remind -->
+    
+    
+    <!-- remind -->
+    <color name="transparent_color">#00000000</color>
+    <color name="progress_color">#5F9576</color>
+    <color name="progress_bgcolor">#B3B3B3</color>
+    <color name="black">#000000</color>
+    
+    
+    <color name="title_color">#444A5A</color>
+</resources>

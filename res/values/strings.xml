@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources 
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">CircleMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="low_blood_pressure">低\n血压</string>
+    <string name="normal_blood_pressure">正常\n血压</string>
+    <string name="normal_high_blood_pressure">正常\n偏高血压</string>
+    <string name="mild_high_blood_pressure">轻度\n高血压</string>
+    <string name="moderate_high_blood_pressure">中度\n高血压</string>
+    <string name="severe_high_blood_pressure">重度\n高血压</string>
+    <string name="start">开始\n检测</string>
+    <string name="diastolic_blood_pressure">舒展压</string>
+    <string name="systolic_blood_pressure">收缩压</string>
+    <string name="pulse">脉搏</string>
+    
+    <!-- 提醒 -->
+    <string name="streamloadingtext" msgid="8842426517396356215">"正在连接<xliff:g id="HOST">%s</xliff:g>..."</string>
+    <string name="playback_failed" msgid="3811851150820251398">"抱歉，播放文件失败。"</string>
+    <string name="toast_fileexplorer_internal_error">音乐播放器发生内部错误！</string>
+    <string name="error_permissions">"此应用缺少运行所需的必要权限。请检查您的权限设置。"</string>
+    <string name="dialog_dismiss">"关闭"</string>
+    <string name="no_allow_play_calling">"通话过程中不允许播放音乐（收音机/视频）。"</string>
+    
+    <string name="unbind">未绑定</string>
+    <string name="binded">已绑定</string>
+    <string name="setting">设置</string>
+    <string name="health_detect">健康检测</string>
+</resources>

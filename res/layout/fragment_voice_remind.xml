@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <RelativeLayout
+        android:id="@+id/rlayout_remind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        >
+       <ListView 
+           android:id="@+id/listview_remind"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:cacheColorHint="@color/transparent_color"
+           android:divider="#9C9C8C"
+           android:dividerHeight="0.3dp" 
+           />
+        
+    </RelativeLayout>
+
+</RelativeLayout>

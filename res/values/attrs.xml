@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HealthView">
+       <attr name="titleSize" format="dimension"></attr>
+	   <attr name="titleText" format="string"></attr>
+	   <attr name="titleColor" format="color"></attr>
+	   <attr name="outCircleColor" format="color"></attr>
+	   <attr name="inCircleColor" format="color"></attr>
+	   <attr name="lineColor" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="CircleMenuView" >
+        <!--菜单文字-->
+        <attr name="menu_text" format="reference"></attr>
+        <!--菜单盘块颜色-->
+        <attr name="menu_item_background" format="reference"></attr>
+        <!--半透明内弧度颜色-->
+        <attr name="stroke_color" format="color"></attr>
+        <attr name="menu_text_color" format="color"></attr>
+        <!--缝隙颜色-->
+        <attr name="gap_color" format="color"></attr>
+        <attr name="gap_size" format="dimension"></attr>
+        <!--扫边宽度-->
+        <attr name="stroke_width" format="dimension"></attr>
+        <!--菜单字体大小-->
+        <attr name="menu_text_size" format="dimension"></attr>
+        <attr name="center_icon" format="reference"></attr>
+        <attr name="center_text" format="string"></attr>
+        <!--内圆半径-->
+        <attr name="inside_cirle_radius" format="dimension"></attr>
+
+    </declare-styleable>
+    
+    <declare-styleable name="playerview">
+        <attr name="buttonColor" format="color"/>
+        <attr name="progressEmptyColor" format="color"/>
+        <attr name="progressLoadedColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
